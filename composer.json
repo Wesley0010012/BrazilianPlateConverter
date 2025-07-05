@@ -1,0 +1,18 @@
+{
+    "name": "wesley0010012/brazilian-plate-converter",
+    "autoload": {
+        "psr-4": {
+            "Wesley0010012\\BrazilianPlateConverter\\": "src/",
+            "Wesley0010012\\Tests\\": "tests/"
+        }
+    },
+    "license": "MIT",
+    "type": "library",
+    "description": "PHP Brazilian Plate Converter package",
+    "authors": [
+        {
+            "name": "Wesley0010012",
+            "email": "wglaurindo33@gmail.com"
+        }
+    ]
+}
